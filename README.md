@@ -8,4 +8,4 @@ This is also
 
 I took this course because
 * I need it for my stats major
-* I thought the course outline sounded super interesting
+* I thought the [course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243) sounded super interesting
